@@ -1,9 +1,9 @@
 const cacheName = "PotężneAEiI-CarRunner-1.2.0";
 const contentToCache = [
     "Build/build.loader.js",
-    "Build/build.framework.js",
-    "Build/build.data",
-    "Build/build.wasm",
+    "Build/build.framework.js.unityweb",
+    "Build/build.data.unityweb",
+    "Build/build.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
